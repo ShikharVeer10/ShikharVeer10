@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NEXUS**
 
-- 🌱 I’m currently learning **Agentic AI, Spring-boot**
+- 🌱 I’m currently learning **Agentic AI, Spring-boot and Backend Development**
 
 - 💬 Ask me about **Machine Learning**
 
