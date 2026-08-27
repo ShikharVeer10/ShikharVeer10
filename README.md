@@ -1,4 +1,4 @@
-# Shikhar Veer
+# Shikhar Veeramachineni
 
 ML engineer and Backend developer focused on agentic LLM systems and FastAPI backends.
 
