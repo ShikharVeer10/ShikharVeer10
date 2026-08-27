@@ -1,6 +1,6 @@
 # Shikhar Veer
 
-ML engineer and full-stack developer focused on agentic LLM systems, FastAPI backends, React/Next.js apps, and production automation.
+ML engineer and Backend developer focused on agentic LLM systems and FastAPI backends.
 
 I build systems that move from prototype to production: agent workflows, RAG pipelines, voice and media automation, event platforms, and SaaS backends. I care about reliability, observability, clean APIs, and products that are usable beyond a demo.
 
@@ -9,7 +9,7 @@ I build systems that move from prototype to production: agent workflows, RAG pip
 ## Current Work
 
 - ML Engineer @ VIT — working on ML systems and infrastructure
-- 🔭 Currently building **UNI-PATH** (agentic pipelines for educational workflows)
+- 🔭 Currently building **UNI-PATH / UniPath** (agentic pipelines for educational workflows)
 - 🌱 Learning: Agentic AI, Spring Boot, production backend systems
 
 ---
@@ -18,9 +18,10 @@ I build systems that move from prototype to production: agent workflows, RAG pip
 
 | Project | What it does | Stack |
 |---|---|---|
-| UNI-PATH | Agentic pipeline and workflow system for educational content generation and orchestration | Python, FastAPI, React, PostgreSQL |
-
-(If you'd like, I can add more projects here with short descriptions and tech stacks.)
+| UniPath | Agentic pipeline and workflow system for educational content generation and orchestration (repo: ShikharVeer10/UniPath). | Python, Mako, Docker |
+| DeepRoute | Route planning and path optimization toolkit for research and simulation — planning algorithms, map processing, and evaluation (repo: ShikharVeer10/DeepRoute). | Python, TeX |
+| Emotio | Emotion recognition models and datasets for audio/image modalities — research code and training pipelines (repo: ShikharVeer10/Emotio). | Python |
+| SynapseArena | Multi-agent research arena for agent competitions, simulations, and benchmarking (repo: ShikharVeer10/SynapseArena). | Python |
 
 ---
 
@@ -29,8 +30,8 @@ I build systems that move from prototype to production: agent workflows, RAG pip
 - Languages: Python, TypeScript, JavaScript, Go, Java, C++
 - AI & data: PyTorch, OpenAI, LangChain, PyTorch Lightning, scikit-learn, Pandas, OpenCV
 - Backend & APIs: FastAPI, Django, Node.js, Express, NestJS, GraphQL
-- Frontend/mobile: React, Next.js, React Native, Flutter
-- Infrastructure: PostgreSQL, Redis, MongoDB, Docker, Kubernetes, AWS, GCP, Linux
+- Frontend/mobile: React, Next.js, React Native
+- Infrastructure: PostgreSQL, Redis, MongoDB, Docker, AWS, 
 
 ---
 
