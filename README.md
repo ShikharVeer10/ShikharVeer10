@@ -1,8 +1,9 @@
 # Shikhar Veeramachineni
 
-ML engineer and Backend developer focused on agentic LLM systems and FastAPI backends.
+ML Engineer and Backend Developer focused on building agentic LLM systems and production-ready FastAPI backends.
 
-I build systems that move from prototype to production: agent workflows, RAG pipelines, voice and media automation, event platforms, and SaaS backends. I care about reliability, observability, clean APIs, and products that are usable beyond a demo.
+I work across RAG pipelines, LLM applications, AI agents, and backend systems, taking ideas from prototype to reliable, usable products. I focus on clean API design, system reliability, observability, and building AI systems that work beyond the demo stage.
+
 
 ---
 
