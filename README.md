@@ -19,10 +19,10 @@ I work across RAG pipelines, LLM applications, AI agents, and backend systems, t
 
 | Project | What it does | Stack |
 |---|---|---|
-| UniPath | Agentic pipeline and workflow system for educational content generation and orchestration (repo: ShikharVeer10/UniPath). | Python, Mako, Docker |
-| DeepRoute | Route planning and path optimization toolkit for research and simulation — planning algorithms, map processing, and evaluation (repo: ShikharVeer10/DeepRoute). | Python, TeX |
-| Emotio | Emotion recognition models and datasets for audio/image modalities — research code and training pipelines (repo: ShikharVeer10/Emotio). | Python |
-| SynapseArena | Multi-agent research arena for agent competitions, simulations, and benchmarking (repo: ShikharVeer10/SynapseArena). | Python |
+| UniPath | Agentic pipeline and workflow system for educational content generation and orchestration. | Python, FastAPI, Pydantic, Pydantic-AI, Docker |
+| DeepRoute | Route planning and path optimization toolkit for research and simulation — planning algorithms, map processing, and evaluation. | Python |
+| Emotio | Emotion recognition models and datasets for text modalities — research code and training pipelines. | Python |
+| SynapseArena | Multi-agent research arena for agent competitions, simulations, and benchmarking. | Python, Pydantic, Pydantic-AI |
 
 ---
 
