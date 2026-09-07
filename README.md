@@ -28,7 +28,7 @@ I work across RAG pipelines, LLM applications, AI agents, and backend systems, t
 
 ## Core Stack
 
-- Languages: Python, TypeScript, JavaScript, Go, Java, C++
+- Languages: Python, Java, C++
 - AI & data: PyTorch, OpenAI, LangChain, PyTorch Lightning, scikit-learn, Pandas, OpenCV
 - Backend & APIs: FastAPI, Django, Node.js, Express, NestJS, GraphQL
 - Frontend/mobile: React, Next.js, React Native
